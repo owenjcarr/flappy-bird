@@ -1,8 +1,12 @@
 # Flappy Bird assets
 
-Image assets for a Flappy Bird game.
+<p align="center">
+  <a href="https://github.com/owenjcarr/flappy-bird/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20all%20assets-ZIP-2ea44f?style=for-the-badge" alt="Download all assets" height="50">
+  </a>
+</p>
 
-**[Download all (ZIP)](https://github.com/owenjcarr/flappy-bird-assets/archive/refs/heads/main.zip)**
+<p align="center">Click the button above to download every image in one ZIP file.</p>
 
 | File | Preview |
 |---|---|
